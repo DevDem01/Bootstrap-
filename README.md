@@ -2,13 +2,6 @@
 
 A responsive landing page built with **HTML**, **CSS**, and **Bootstrap**. This project is a fictional app website called **TinDog**, designed to help dog owners find matches for their dogs.
 
-## Preview
-
-Add a screenshot of the webpage here:
-
-```md
-![TinDog Website Preview](./images/preview.png)
-```
 
 ## Features
 
